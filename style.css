@@ -1,0 +1,21 @@
+.kilos
+{
+    color: red;
+}
+.litres
+{
+    color: green;
+}
+.boîtes
+{
+    font-weight: bold;
+}
+.conclusion
+{
+    font-style: italic;
+}
+h1
+{
+    font-weight: bold;
+    font-size: 1.5em;
+}
